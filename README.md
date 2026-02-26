@@ -1,12 +1,15 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=2E8B57&background=00000000&width=450&lines=Hi,+I'm+Lazyturtle;どうも、たーとるです🐢"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&color=2E8B57&background=00000000&width=450&lines=Hi,+I'm+Lazyturtle;どうも、たーとるです🐢"
     style="display:block;margin:0 auto;"
   />
+
 </h1>
 
-<h3 align="center">Japanese Student in Keio SFC</h3>
+<h3 align="center">
+  Keio SFC student using tech to solve problems in mobility, AI, and society.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyturtle0852&label=Profile%20views&color=0e75b6&style=flat" alt="lazyturtle0852" /> </p>
 
@@ -54,15 +57,4 @@
 
 <br />
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lazyturtle0852&show_icons=true&locale=en&layout=compact"
-    alt="lazyturtle0852 top langs"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=lazyturtle0852&show_icons=true&locale=en"
-    alt="lazyturtle0852 stats"
-  />
 </p>
